@@ -25,8 +25,3 @@ This project is written in standard C and should compile on most systems with a 
     ./hangman
     ```
 
-## Gameplay Demo
-
-Here is a quick look at the gameplay experience:
-
-**(Initial Game Screen)**
